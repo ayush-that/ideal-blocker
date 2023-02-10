@@ -1,0 +1,2 @@
+# ideal-blocker
+Blocks websites!
